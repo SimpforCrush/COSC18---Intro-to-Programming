@@ -1,2 +1,1 @@
-# Python-Midterms
-# Just some sample and simple exercises
+Sample and Simple Exercises for Midterms 
